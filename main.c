@@ -60,7 +60,7 @@ int main() {
     char key[MAX];
 
     while (1) { //Main menu - lets the user choose what they want to do:
-        printf("\n--- MENU ---\n");
+        printf("\nCRYPTOGRAPHY PROGRAM\n");
         printf("1. Encrypt text\n");
         printf("2. Decrypt text\n");
         printf("3. Exit\n"); //Lets the user exit the program and exit the loop
